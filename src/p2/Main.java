@@ -15,7 +15,7 @@ public class Main
         //Initializes random generator
         Random ran = new Random();
 
-        //formats to 2 decimal places
+        //Formats to 2 decimal places
         DecimalFormat df = new DecimalFormat("#.##");
 
         //Sets the formatter to round up
