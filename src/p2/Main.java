@@ -18,7 +18,7 @@ public class Main
         //formats to 2 decimal places
         DecimalFormat df = new DecimalFormat("#.##");
 
-        //Sets the formatter to round up ba
+        //Sets the formatter to round up test
         df.setRoundingMode(RoundingMode.CEILING);
 
         for (int x = 0; x < 12; x++)
